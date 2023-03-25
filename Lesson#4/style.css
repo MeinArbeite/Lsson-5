@@ -1,0 +1,19 @@
+.Counter{
+    margin-left: 280px;
+    margin-top: 50px;
+    color: darkblue;
+}
+.btns{
+    display: flex;
+    margin-left: 215px;
+
+}
+#count{
+    margin-left: 325px;
+}
+
+.btn{
+    border-radius: 50px;
+    
+}
+
