@@ -1,0 +1,18 @@
+body{
+    background-color: midnightblue;
+}
+
+.wrapper{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: mediumslateblue;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+h1{
+    padding-top: 50px;
+    font-family: "DM Sans", sans-serif;
+}

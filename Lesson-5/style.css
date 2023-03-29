@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.indicators{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.indicator{
+    background-color: #ba9a9a;
+    height: 8px;
+    width: 43px;
+    border-radius: 5px;
+}
+
+.indicator + .indicator{
+    margin-left: 2px;
+}

@@ -1,0 +1,11 @@
+#increase{
+    border-radius: 100px;
+    border-color: green;
+}
+#decrease{
+    border-radius: 100px;
+    border-color: red;
+}
+#reset{
+    border-radius: 100px;
+}
